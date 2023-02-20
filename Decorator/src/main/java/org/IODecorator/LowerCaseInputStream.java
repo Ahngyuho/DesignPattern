@@ -12,6 +12,6 @@ public class LowerCaseInputStream extends FileInputStream {
         InputStream lower = new LowerCaseInputStream(file);
         lower = new ConvertInput(lower);
         System.out.println("finish");
-        System.out.println(lower.readAllBytes());
+        System.out.println(new String(lower.readAllBytes()));
     }
 }

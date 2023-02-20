@@ -13,8 +13,8 @@ public class ConvertInput extends FilterInputStream {
     @Override
     public byte[] readAllBytes() throws IOException {
         byte[] bytes = super.readAllBytes();
-        String lower = bytes.toString();
-        lower.toLowerCase(Locale.ROOT);
+        String lower = new String(bytes);
+        lower = lower.toLowerCase();
         return lower.getBytes();
     }
 }
