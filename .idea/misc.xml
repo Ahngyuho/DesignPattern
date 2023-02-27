@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Command" />
     <file type="web" url="file://$PROJECT_DIR$/Decorator" />
     <file type="web" url="file://$PROJECT_DIR$/Duck" />
+    <file type="web" url="file://$PROJECT_DIR$/Factory" />
     <file type="web" url="file://$PROJECT_DIR$/Observer" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="11" project-jdk-type="JavaSDK">
