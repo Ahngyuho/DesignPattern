@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Adaptor" />
     <file type="web" url="file://$PROJECT_DIR$/Command" />
     <file type="web" url="file://$PROJECT_DIR$/Decorator" />
     <file type="web" url="file://$PROJECT_DIR$/Duck" />
+    <file type="web" url="file://$PROJECT_DIR$/facade" />
     <file type="web" url="file://$PROJECT_DIR$/Factory" />
     <file type="web" url="file://$PROJECT_DIR$/Observer" />
   </component>
