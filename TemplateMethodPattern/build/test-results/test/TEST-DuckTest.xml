@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DuckTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-10T03:36:24" hostname="DESKTOP-MHVDS3R" time="0.046">
+  <properties/>
+  <testcase name="test()" classname="DuckTest" time="0.046"/>
+  <system-out><![CDATA[name: A, weight: 8
+name: A, weight: 10
+name: A, weight: 23
+name: A, weight: 39
+name: A, weight: 47
+name: A, weight: 79
+name: A, weight: 98
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

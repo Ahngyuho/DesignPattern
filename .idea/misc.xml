@@ -9,6 +9,7 @@
     <file type="web" url="file://$PROJECT_DIR$/facade" />
     <file type="web" url="file://$PROJECT_DIR$/Factory" />
     <file type="web" url="file://$PROJECT_DIR$/Observer" />
+    <file type="web" url="file://$PROJECT_DIR$/TemplateMethodPattern" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
